@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MRiveraz\\Downloads\\WebApplication2\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19215BCA-2568-47DA-8420-7E027F930A3A}|WebApplication2\\WebApplication2.csproj|c:\\users\\mriveraz\\downloads\\webapplication2\\webapplication2\\webapplication2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{19215BCA-2568-47DA-8420-7E027F930A3A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19215BCA-2568-47DA-8420-7E027F930A3A}|WebApplication2\\WebApplication2.csproj|C:\\Users\\MRiveraz\\Downloads\\WebApplication2\\WebApplication2\\webapplication2\\listadoproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19215BCA-2568-47DA-8420-7E027F930A3A}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\listadoproductos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "listadoproductos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\MRiveraz\\Downloads\\WebApplication2\\WebApplication2\\WebApplication2\\listadoproductos.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\listadoproductos.aspx.cs",
+              "ToolTip": "C:\\Users\\MRiveraz\\Downloads\\WebApplication2\\WebApplication2\\WebApplication2\\listadoproductos.aspx.cs",
+              "RelativeToolTip": "WebApplication2\\listadoproductos.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:23:45.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\MRiveraz\\Downloads\\WebApplication2\\WebApplication2\\WebApplication2\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication2\\Web.config",
+              "ToolTip": "C:\\Users\\MRiveraz\\Downloads\\WebApplication2\\WebApplication2\\WebApplication2\\Web.config",
+              "RelativeToolTip": "WebApplication2\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-28T20:23:45.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
